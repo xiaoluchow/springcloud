@@ -23,6 +23,7 @@
         <module>../discovery</module>
         <module>../config</module>
         <module>../discoverybackup</module>
+        <module>../discoverythird</module>
     </modules>
     <parent>
         <groupId>org.springframework.cloud</groupId>
